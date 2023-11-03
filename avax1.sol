@@ -15,7 +15,7 @@ contract SmartContract {
     }
 
     function AddAndAssert(uint256 num1, uint256 num2) external pure returns (uint256) {
-        assert(num1 != num2);  // Ensuring One is not equal to Two
+        assert(num1 != num2);  // Ensuring num1 is not equal to num2
         return num1 + num2;
     }
 
