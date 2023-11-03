@@ -36,10 +36,6 @@ This function checks if the input `_dataToCheck` is less than 20. If the conditi
 
    - Use the `CheckAndRevert` function to test the revert functionality when the input data is less than 20.
 
-## Authors
-
-- [Your Name]
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
